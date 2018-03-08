@@ -1,0 +1,28 @@
+.top {
+padding: 40px;
+    background-color: #0A3055;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+}
+.navy{
+    background-color: #004055;   
+    padding: 5px;
+    
+}
+.navy ul li{
+    display: inline;
+    
+}
+.navy ul li a{
+   color:aliceblue;
+    padding-left: 10px;
+    margin: 10px
+}
+h2,h6{
+    color: aliceblue;
+}
+.slide{
+    padding: 0px;
+    left: -15px;
+}
